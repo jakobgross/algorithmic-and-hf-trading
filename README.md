@@ -21,10 +21,20 @@ useful, support the authors and buy the book:
     - cancellation
     - price proxies (spread, midprice, microprice)
 
+### [Chapter 2.1: Grossman-Miller Market Making Model](02_01_grossman_miller.ipynb)
+- Liquidity traders, market makers, and delayed offsetting demand
+- CARA utility, certainty equivalents, and risk premium
+- Equilibrium price and liquidity premium:
+    - risk sharing across market makers
+    - impact of volatility, trade size, competition, and risk aversion
+- Worked example for a large GME sell order
+- Trading-cost extension with per-share fees
+
 ## Layout
 ```
 .
 ├── 01_electronic_markets_and_lob.ipynb   chapter 1 notebook
+├── 02_01_grossman_miller.ipynb           chapter 2.1 Grossman-Miller notebook
 ├── hft_lib/
 │   └── lob.py                            order book + matching engine
 └── README.md
