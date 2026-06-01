@@ -5,7 +5,7 @@ Personal notes and Python implementations while working through
 by Álvaro Cartea, Sebastian Jaimungal, José Penalva
 
 
-Meant to be used **alongside** the book, not as a replacement. If you find these
+Meant to be used **alongside** the book. If you find these
 useful, support the authors and buy the book:
 - https://www.amazon.com/Algorithmic-High-Frequency-Trading-Mathematics-Finance/dp/1107091144
 
@@ -43,8 +43,7 @@ useful, support the authors and buy the book:
 WIP, built chapter by chapter when I find the time. The code is not polished and may contain errors. Use at your own risk.
 
 ## Disclaimer
-Educational material only. Nothing here is financial advice. The code is for
-learning and is not intended for production or live trading.
+Educational material only. Nothing here is financial advice. The code is not intended for production or live trading.
 
 ## Acknowledgements
 All concepts and the structure of the underlying material are due to Cartea,
