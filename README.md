@@ -29,6 +29,9 @@ useful, support the authors and buy the book:
     - impact of volatility, trade size, competition, and risk aversion
 - Worked example for a large GME sell order
 - Trading-cost extension with per-share fees
+- Measuring liquidity:
+    - linear price impact
+    - negative autocovariance from temporary price impact
 
 ## Layout
 ```
